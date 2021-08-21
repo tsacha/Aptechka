@@ -226,6 +226,7 @@ local defaults = {
         showFloatingIcons = false,
         healthTexture = "Gradient",
         powerTexture = "Gradient",
+        defaultFont = "AlegreyaSans-Medium",
         damageEffect = true,
         auraUpdateEffect = true,
         gradientHealthColor = false,
